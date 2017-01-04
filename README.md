@@ -9,3 +9,9 @@ conda create -n name python=3.5
 pip install -r requirements.txt
 python main.py
 ```
+
+## Requirements
+* Python 2.7
+* pip
+* numpy
+* conda/virtualenv (optional)
