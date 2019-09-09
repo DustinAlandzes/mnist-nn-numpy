@@ -1,4 +1,4 @@
-# mnist-neural-net
+# mnist-nn-numpy
 multi-layer neural network that classifies mnist, from 
 http://neuralnetworksanddeeplearning.com/chap1.html
 
